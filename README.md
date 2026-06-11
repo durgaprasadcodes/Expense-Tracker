@@ -15,6 +15,13 @@
 
 ---
 
+## Live Demo 
+
+<div align='center'>
+  
+  [**Live Demo**](https://durgaprasadcodes.github.io/Expense-Tracker/)
+</div>
+
 ## ✨ Overview
 A clean and modern **Expense Tracker** web app built with **React + Vite**.  
 This project currently includes routed pages for Home, Analysis, History, and Login, and is ready to grow into a full personal finance dashboard.
